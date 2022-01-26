@@ -1,6 +1,6 @@
 # Getting Started with MERN-APP
 
-After clonning this repository, we have to create .env file for db credentials.
+After clonning this repository, developer has to create .env file for db credentials.
 
 # sample data for .env file
 
